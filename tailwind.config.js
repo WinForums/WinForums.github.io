@@ -9,5 +9,5 @@ export default {
   variants: {
     extend: {},
   },
-  darkMode: false,
+  darkMode: "media",
 };
