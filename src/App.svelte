@@ -7,7 +7,7 @@
 <main>
   <TailwindCss />
   <Router url="">
-    <Route path="/" />
+    <Route path="/"><Link to="/login">Login</Link></Route>
     <Route path="/login"><Login /></Route>
   </Router>
 </main>
